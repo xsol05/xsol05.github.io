@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Magdeline Huang</title>
+    <link>https://xsol05.github.io/posts/</link>
+    <description>Recent content in Posts on Magdeline Huang</description>
+    <image>
+      <url>https://xsol05.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://xsol05.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 27 Jun 2022 13:00:42 +1200</lastBuildDate><atom:link href="https://xsol05.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🪴 My Digital Garden</title>
+      <link>https://xsol05.github.io/posts/001-my-digital-garden/</link>
+      <pubDate>Mon, 27 Jun 2022 13:00:42 +1200</pubDate>
+      
+      <guid>https://xsol05.github.io/posts/001-my-digital-garden/</guid>
+      <description>A bit about me and my garden</description>
+    </item>
+    
+  </channel>
+</rss>
