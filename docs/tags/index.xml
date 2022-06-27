@@ -8,16 +8,6 @@
       <url>https://xsol05.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://xsol05.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 27 Jun 2022 16:15:27 +1200</lastBuildDate><atom:link href="https://xsol05.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>JavaScript</title>
-      <link>https://xsol05.github.io/tags/javascript/</link>
-      <pubDate>Mon, 27 Jun 2022 16:15:27 +1200</pubDate>
-      
-      <guid>https://xsol05.github.io/tags/javascript/</guid>
-      <description></description>
-    </item>
-    
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://xsol05.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

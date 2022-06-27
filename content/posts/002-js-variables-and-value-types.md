@@ -1,7 +1,7 @@
 ---
 title: "🧶 JavaScript Variables and Value Types"
 date: 2022-06-27T16:15:27+12:00
-draft: false
+draft: true
 summary: "The basics aren't very basic"
 description: "The basics aren't very basic"
 tags: ["JavaScript"]
