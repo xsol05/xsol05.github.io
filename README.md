@@ -1,1 +1,0 @@
-# magdeline.github.io
