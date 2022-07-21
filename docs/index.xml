@@ -2,21 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Magdeline Huang</title>
-    <link>https://xsol05.github.io/</link>
+    <link>https://magdelinehuang.com/</link>
     <description>Recent content on Magdeline Huang</description>
     <image>
-      <url>https://xsol05.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://xsol05.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://magdelinehuang.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://magdelinehuang.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 27 Jun 2022 13:00:42 +1200</lastBuildDate><atom:link href="https://xsol05.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 21 Jul 2022 18:28:25 +1200</lastBuildDate><atom:link href="https://magdelinehuang.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>🪴 My Digital Garden</title>
-      <link>https://xsol05.github.io/posts/001-my-digital-garden/</link>
+      <title>🌷 My Digital Garden</title>
+      <link>https://magdelinehuang.com/posts/001-my-digital-garden/</link>
       <pubDate>Mon, 27 Jun 2022 13:00:42 +1200</pubDate>
       
-      <guid>https://xsol05.github.io/posts/001-my-digital-garden/</guid>
+      <guid>https://magdelinehuang.com/posts/001-my-digital-garden/</guid>
       <description>A bit about me and my garden</description>
+    </item>
+    
+    <item>
+      <title>🍰 JavaScript Variables and Value Types</title>
+      <link>https://magdelinehuang.com/posts/002-js-variables-and-value-types/</link>
+      <pubDate>Thu, 21 Jul 2022 18:28:25 +1200</pubDate>
+      
+      <guid>https://magdelinehuang.com/posts/002-js-variables-and-value-types/</guid>
+      <description>The basics aren&amp;#39;t very basic</description>
+    </item>
+    
+    <item>
+      <title>Changelog</title>
+      <link>https://magdelinehuang.com/changelog/</link>
+      <pubDate>Mon, 27 Jun 2022 13:00:42 +1200</pubDate>
+      
+      <guid>https://magdelinehuang.com/changelog/</guid>
+      <description>It&amp;rsquo;s about the journey, not the destination 🚗
+Done ✅ Create site (done 27/6/22)
+✅ Write and publish my first post (done 27/6/22)
+✅ Publish to GitHub and deploy to GitHub pages (done 27/6/22)
+✅ Buy a domain and link it to my site (done 12/7/22)
+✅ Add favicon (done 21/7/22)
+✅ Write and publish my first content post (done 21/7/22)
+To-Do ⚪️ Integrate Disqus comments
+⚪️ Add RSS feed</description>
     </item>
     
     

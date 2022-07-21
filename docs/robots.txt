@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://xsol05.github.io/sitemap.xml
+Sitemap: https://magdelinehuang.com/sitemap.xml

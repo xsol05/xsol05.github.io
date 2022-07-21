@@ -1,24 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on Magdeline Huang</title>
-    <link>https://magdelinehuang.com/posts/</link>
-    <description>Recent content in Posts on Magdeline Huang</description>
+    <title>JavaScript on Magdeline Huang</title>
+    <link>https://magdelinehuang.com/tags/javascript/</link>
+    <description>Recent content in JavaScript on Magdeline Huang</description>
     <image>
       <url>https://magdelinehuang.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://magdelinehuang.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 21 Jul 2022 18:28:25 +1200</lastBuildDate><atom:link href="https://magdelinehuang.com/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>🌷 My Digital Garden</title>
-      <link>https://magdelinehuang.com/posts/001-my-digital-garden/</link>
-      <pubDate>Mon, 27 Jun 2022 13:00:42 +1200</pubDate>
-      
-      <guid>https://magdelinehuang.com/posts/001-my-digital-garden/</guid>
-      <description>A bit about me and my garden</description>
-    </item>
-    
+    <lastBuildDate>Thu, 21 Jul 2022 18:28:25 +1200</lastBuildDate><atom:link href="https://magdelinehuang.com/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>🍰 JavaScript Variables and Value Types</title>
       <link>https://magdelinehuang.com/posts/002-js-variables-and-value-types/</link>

@@ -2,19 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://xsol05.github.io/posts/001-my-digital-garden/</loc>
+    <loc>https://magdelinehuang.com/posts/001-my-digital-garden/</loc>
     <lastmod>2022-06-27T13:00:42+12:00</lastmod>
   </url><url>
-    <loc>https://xsol05.github.io/</loc>
+    <loc>https://magdelinehuang.com/posts/002-js-variables-and-value-types/</loc>
+    <lastmod>2022-07-21T18:28:25+12:00</lastmod>
+  </url><url>
+    <loc>https://magdelinehuang.com/tags/javascript/</loc>
+    <lastmod>2022-07-21T18:28:25+12:00</lastmod>
+  </url><url>
+    <loc>https://magdelinehuang.com/</loc>
+    <lastmod>2022-07-21T18:28:25+12:00</lastmod>
+  </url><url>
+    <loc>https://magdelinehuang.com/posts/</loc>
+    <lastmod>2022-07-21T18:28:25+12:00</lastmod>
+  </url><url>
+    <loc>https://magdelinehuang.com/tags/</loc>
+    <lastmod>2022-07-21T18:28:25+12:00</lastmod>
+  </url><url>
+    <loc>https://magdelinehuang.com/changelog/</loc>
     <lastmod>2022-06-27T13:00:42+12:00</lastmod>
   </url><url>
-    <loc>https://xsol05.github.io/posts/</loc>
-    <lastmod>2022-06-27T13:00:42+12:00</lastmod>
+    <loc>https://magdelinehuang.com/archive/</loc>
   </url><url>
-    <loc>https://xsol05.github.io/archive/</loc>
-  </url><url>
-    <loc>https://xsol05.github.io/search/</loc>
-  </url><url>
-    <loc>https://xsol05.github.io/tags/</loc>
+    <loc>https://magdelinehuang.com/search/</loc>
   </url>
 </urlset>
