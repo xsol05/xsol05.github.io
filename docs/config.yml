@@ -166,4 +166,4 @@ outputs:
 publishDir: "docs"
 
 # Disqus comments
-disqusShortname: "magdelinehuang"
+disqusShortname: magdelinehuang
