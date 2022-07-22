@@ -36,11 +36,11 @@ It's about the journey, not the destination 🚗
 ## Done
 
 ✅ Create site (done 27/6/22)\
-✅ Write and publish [my first post](http://localhost:1313/posts/001-my-digital-garden/) (done 27/6/22)\
+✅ Write and publish [my first post](https://magdelinehuang.com/posts/001-my-digital-garden/) (done 27/6/22)\
 ✅ Publish to GitHub and deploy to GitHub pages (done 27/6/22)\
 ✅ Buy a domain and link it to my site (done 12/7/22)\
 ✅ Add favicon (done 21/7/22)\
-✅ Write and publish [my first content post](http://localhost:1313/posts/002-js-variables-and-value-types/) (done 21/7/22)
+✅ Write and publish [my first content post](https://magdelinehuang.com/posts/002-js-variables-and-value-types/) (done 21/7/22)
 
 ## To-Do
 
