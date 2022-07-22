@@ -2,7 +2,6 @@
 title: "Changelog"
 date: 2022-06-27T13:00:42+12:00
 draft: false
-
 summary: "" #displays underneath title in blog title card on homepage
 description: "" #displays underneath title in actual blog page
 tags: [""]
