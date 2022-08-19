@@ -45,7 +45,7 @@ Let me explain: I was the feature lead for a feature. The feature involved repla
 
 I posted an annoncement in the release channel then gave myself a pat on the back. Woohoo! 🥳 This feature took several sprints and I was so glad it was finally shipped.
 
-About half an hour later, my colleague alerts me of a tech support ticket created regarding my feature. Not too long after, I get pulled into another Slack thread regarding issues reported about the feature. Before I know it, an incident management process is kickstarted and my feature gets reverted from production 🤡
+About half an hour later, my colleague alerts me of a tech support ticket created regarding my feature. Not too long after, I get pulled into another Slack thread regarding the same issue reported about the feature. Before I know it, an incident management process is kickstarted and my feature gets reverted from production 🤡
 
 A wave of emotions overcome me. Embarrassment, humiliation, sadness, disappointment, perplexion, indignation.
 
