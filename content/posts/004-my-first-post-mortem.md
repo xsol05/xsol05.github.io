@@ -41,9 +41,9 @@ A [postmortem](https://kwa29.medium.com/it-post-mortem-guidelines-77214c6e7e34) 
 
 As luck would have it, I had my first incident last week 😅
 
-Let me explain: I was the feature lead for a feature. The feature involved replacing some old components with new ones. One of the components replaced also had a validation check added to it. This check was run through Product, and the whole feature underwent extensive QA testing in various environments. Everything was going smoothly so when I received the green light, I shipped the feature aka I realeased it into our production code base, meaning our users would be able to access the feature.
+Let me explain: I was the feature lead for a feature. The feature involved replacing some old components with new ones. One of the components replaced also had a validation check added to it. This check was run through Product, and the whole feature underwent extensive QA testing in various environments. Everything was going smoothly so when I received the green light, I shipped the feature aka I released it into our production code base, meaning our users would be able to access the feature.
 
-I posted an annoncement in the release channel then gave myself a pat on the back. Woohoo! 🥳 This feature took several sprints and I was so glad it was finally shipped.
+I posted an announcement in the release channel then gave myself a pat on the back. Woohoo! 🥳 This feature took several sprints and I was so glad it was finally shipped.
 
 About half an hour later, my colleague alerts me of a tech support ticket created regarding my feature. Not too long after, I get pulled into another Slack thread regarding the same issue reported about the feature. Before I know it, an incident management process is kickstarted and my feature gets reverted from production 🤡
 
