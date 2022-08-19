@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>JavaScript on Magdeline Huang</title>
     <link>https://magdelinehuang.com/tags/javascript/</link>
     <description>Recent content in JavaScript on Magdeline Huang</description>
+    <image>
+      <url>https://magdelinehuang.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://magdelinehuang.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Thu, 21 Jul 2022 18:28:25 +1200</lastBuildDate><atom:link href="https://magdelinehuang.com/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -12,7 +16,7 @@
       <pubDate>Thu, 21 Jul 2022 18:28:25 +1200</pubDate>
       
       <guid>https://magdelinehuang.com/posts/002-js-variables-and-value-types/</guid>
-      <description>The basics aren&amp;rsquo;t very basic</description>
+      <description>The basics aren&amp;#39;t very basic</description>
     </item>
     
   </channel>
