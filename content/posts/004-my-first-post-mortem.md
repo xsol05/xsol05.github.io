@@ -1,7 +1,7 @@
 ---
 title: "💀 My First Postmortem"
 date: 2022-08-16T15:31:57+12:00
-draft: true
+draft: false
 summary: "I 'broke' production 😅 Here's what happened and what I learnt"
 tags: ["Career"]
 author: "Magdeline Huang"
