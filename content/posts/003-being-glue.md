@@ -63,6 +63,10 @@ If the skills you wish you had are part of the job you're doing all day, that's 
 
 We need to talk more about learning in public because so much of the tech industry is built on this very skill.
 
+I particularly found comfort in this paragraph 🥲
+
+> What are the skills you want? It's not about what skills you already have! The vast majority of our learning happens on the job. But I see people not considering the roles they want because they don't feel like they already have all the skills of that job. I've had a lot of CS college students tell me they're not applying for programming jobs because they don't feel like they're strong programmers. Of course they aren't! They're still in college. The vast majority of our learning happens on the job.
+
 ## 4. Leaving a technical role early could potentially limit you
 
 It sucks, but as soon as "Engineer" is removed from your title, people assume you're not technical.
