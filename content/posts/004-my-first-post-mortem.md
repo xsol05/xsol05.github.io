@@ -111,7 +111,7 @@ On the bright side, this was a fantastic opportunity for me to get acquainted wi
 
 ## Afterthoughts
 
-Thankfully, this incident was fairly small, low risk, and was resolved relatively quickly. It also had no impact on our customers.
+Thankfully, this incident was fairly small, low risk, and was resolved relatively quickly.
 
 Everyone congratulated me for my first incident / postmortem because it's something we all experience at some point and graduate from 😅
 
