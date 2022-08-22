@@ -33,6 +33,8 @@ editPost:
     appendFilePath: true # to append file path to Edit link
 ---
 
+{{< tweet user="magdelinehuang" id="1558950173035769856" >}}
+
 Are you doing lots of non-promotable work?
 
 Are you getting closer to your career goals?
@@ -40,8 +42,6 @@ Are you getting closer to your career goals?
 Here's my takeaways from this insightful write up by [@whereistanya](https://twitter.com/whereistanya) on being glue and other tech career tips https://noidea.dog/glue
 
 PS Read this if you're underrepresented in tech 👩🏻‍💻
-
-PPS I originally did a Twitter thread on this. Check it out [here](https://twitter.com/magdelinehuang/status/1558950173035769856?s=20&t=xo1ZHzPPFJQ1tpWolShGxQ) ✨
 
 ## 1. Ask yourself what you want to get better at
 
