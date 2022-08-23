@@ -39,11 +39,11 @@ It's about the journey, not the destination 🚗
 ✅ Publish to GitHub and deploy to GitHub pages (done 27/6/22)\
 ✅ Buy a domain and link it to my site (done 12/7/22)\
 ✅ Add favicon (done 21/7/22)\
-✅ Write and publish [my first content post](https://magdelinehuang.com/posts/002-js-variables-and-value-types/) (done 21/7/22)
+✅ Write and publish [my first content post](https://magdelinehuang.com/posts/002-js-variables-and-value-types/) (done 21/7/22)\
+✅ Integrate Disqus comments (done 23/8/22)
 
 ## To-Do
 
-⚪️ Integrate Disqus comments\
 ⚪️ Add RSS feed\
 ⚪️ Add Google Analytics\
 ⚪️ Customise the header and footer (remove the background colour for share buttons)\

@@ -9,7 +9,7 @@
       <link>https://magdelinehuang.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 19 Aug 2022 14:09:59 +1200</lastBuildDate><atom:link href="https://magdelinehuang.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 22 Aug 2022 21:58:49 +1200</lastBuildDate><atom:link href="https://magdelinehuang.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>🌷 My Digital Garden</title>
       <link>https://magdelinehuang.com/posts/001-my-digital-garden/</link>
@@ -17,6 +17,15 @@
       
       <guid>https://magdelinehuang.com/posts/001-my-digital-garden/</guid>
       <description>A bit about me and my garden</description>
+    </item>
+    
+    <item>
+      <title>👩🏻‍🎓 Internships and Jobs 101</title>
+      <link>https://magdelinehuang.com/posts/005-internships/</link>
+      <pubDate>Mon, 22 Aug 2022 21:58:49 +1200</pubDate>
+      
+      <guid>https://magdelinehuang.com/posts/005-internships/</guid>
+      <description>A guide to internships and jobs</description>
     </item>
     
     <item>

@@ -42,7 +42,7 @@ Pro tip: Click on the Table of Contents to navigate through this super long post
 
 _Some necessary clarifications before we begin:_
 
-- _This post will be focussed on general degrees like BComs, BScis, BArts etc rather than specialised ones in the health field as they are quite different, especially regarding the application process and where to find them, but hopefully you’ll still find other areas helpful like how to write a CV._
+- _This post will be focussed on general degrees like BComs, BScis, BArts etc rather than specialised ones in the health field as they are quite different, especially regarding the application process and where to find them, but hopefully you’ll still find other areas helpful like how to write a resume._
 - _The section on where to find internship and job listings has sites that are specific to New Zealand._
 - _Internships and jobs are pretty much the same thing, but for the sake of this post, we are going to establish that an internship is undertaken while you are still at uni while a job is for after you graduate._
 
@@ -76,9 +76,9 @@ It goes without saying, but this is also a huge reason why internships are impor
 
 And by the way, in this day and age, it is very frown upon if employers do not pay interns, so if a company says an internship is unpaid, think twice about it 🤡
 
-### 3. Build up your CV
+### 3. Build up your resume
 
-It looks great on your CV if you have completed at least one internship. It doesn’t really matter what the company is.
+It looks great on your resume if you have completed at least one internship. It doesn’t really matter what the company is.
 
 Having completed an internship shows that you are proactive and dedicated to learning, qualities which every employer wants their employees to have, so it can make it easier to find jobs after you graduate.
 
@@ -110,7 +110,7 @@ Ideally, if you want to stand a chance of getting a good internship or job, one 
 There are many places where you can find them:
 
 - Career fairs and club events - Usually company representatives come into the campus to talk about their programmes. I highly recommend these as you get to ask questions in person, and sometimes they also give you tips for their application process. Plus there’s usually free food! 😋
-- Careers department - You could also go to your career department and talk to them about this. They can help you with your CV and application too.
+- Careers department - You could also go to your career department and talk to them about this. They can help you with your resume and application too.
 - [GradNZ](https://gradnewzealand.nz/) - Your go-to site for finding internships and jobs for all areas of study
 - [Nxtstep](https://nxtstep.co.nz/) - Same as GradNZ
 - [Student Job Search](https://www.sjs.co.nz/) - This site is more for student jobs in general, but sometimes companies do list their programmes here. I've seen governmental internships like the [GovTechTalent](https://www.govtechtalent.sjs.co.nz/) internship listed here.
@@ -138,7 +138,7 @@ Here's a rough comparison between the two:
 | ---------------------------- | -------------------------------------------------------- |
 | Structured internship or grad programme | More free-flowing - flexibility to customise it yourself |
 | Various rotations in different departments | Forefront of innovation |
-| Good name on your CV | Faster rate of learning and growth |
+| Good name on your resume | Faster rate of learning and growth |
 | Can be slow to effect change | Chaotic |
 
 Some disclaimers:
@@ -156,9 +156,9 @@ There’s a lot to keep track of, so it’s good to have a place where you can r
 
 {{< figure src="/images/jobtracker.png#center" alt="Notion Job Tracker" caption="Notion Job Tracker">}}
 
-### How to write a CV
+### How to write a resume
 
-This is quite a chunky topic and I have made a video plus [example CV](https://www.notion.so/Teddy-Bear-example-resume-b01becdf74944b3793fabfde2c428682) on it before which you can watch below 👇
+This is quite a chunky topic but I have made a video plus [example resume](https://www.notion.so/Teddy-Bear-example-resume-b01becdf74944b3793fabfde2c428682) on it before which you can watch below 👇
 
 {{< youtube 8eIcynJPq8Y >}}<br />
 
@@ -166,7 +166,7 @@ Anyhow, here's a quick summary:
 
 **1. Content**
 
-Your CV should have these these sections as a rule of thumb: Contact Details, Education, Skills, Work Experience, Extra-curriculars, Personal Projects
+Your resume should have these these sections as a rule of thumb: Contact Details, Education, Skills, Work Experience, Extra-curriculars, Personal Projects
 
 **2. Not more than two pages**
 
@@ -202,7 +202,7 @@ Make sure you have clear titles and bullet points, consistent fonts and font siz
 
 **7. No spelling mistakes**
 
-Make sure you proof-read your CV!
+Make sure you proof-read your resume!
 
 **8. Up-to-date**
 
@@ -255,7 +255,7 @@ Note: Please ignore all the values in that matrix - they are completely arbitrar
 1. The main purpose of an internship is for learning (technical skills, soft skills, learn about yourself)
 2. It’s not about what skills you have but what skills you want, and that’s because most of our learning happens on the job.
 3. Start applying for internships and jobs early (ideally March). If you’re not sure when they open, reach out to the recruitment team.
-4. Perfect your CV and LinkedIn
+4. Perfect your resume and LinkedIn
 5. Get involved with extracurriculars
 6. Have a portfolio of projects and skills to showcase
 7. Networking is important (but doesn't have to be scary!)
