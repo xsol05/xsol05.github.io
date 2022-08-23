@@ -4,7 +4,7 @@ date: 2022-08-22T21:58:49+12:00
 draft: false
 summary: "A guide to internships and jobs"
 description: "A guide to internships and jobs"
-tags: ["Internships", "Career", "Student"]
+tags: ["Internships", "Career", "Student", "Resume / CV"]
 author: "Magdeline Huang"
 showToc: true
 TocOpen: false
@@ -23,9 +23,9 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "<image path/url>" # image path/url
-    alt: "<alt text>" # alt text
-    caption: "<text>" # display caption under cover
+    image: "https://careercenter.umich.edu/files/cc/field/image/umichigan-culture-wall-search-for-jobs-or-internships.jpg" # image path/url
+    alt: "Some things can be taught, some things need to be experienced" # alt text
+    caption: "Some things can be taught, some things need to be experienced" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: true # only hide on current single page
 editPost:
