@@ -34,6 +34,8 @@ editPost:
     appendFilePath: true # to append file path to Edit link
 ---
 
+{{< figure src="https://careercenter.umich.edu/files/cc/field/image/umichigan-culture-wall-search-for-jobs-or-internships.jpg#center" alt="Some things can be taught, some things need to be experienced" height="400">}}
+
 Doing an internship is one of the most important things you can do as a student, and it usually increases your chances of securing a job after graduation. My aim with this post is to include everything you need to know about this topic as a student. Ambitious aim, but let's go! 🥳
 
 Pro tip: Click on the Table of Contents to navigate through this super long post 😉

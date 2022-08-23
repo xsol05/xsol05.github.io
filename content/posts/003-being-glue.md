@@ -33,7 +33,7 @@ editPost:
     appendFilePath: true # to append file path to Edit link
 ---
 
-{{< tweet user="magdelinehuang" id="1558950173035769856" >}}
+{{< tweet user="magdelinehuang" id="1558950173035769856#center" >}}
 
 Are you doing lots of non-promotable work?
 
