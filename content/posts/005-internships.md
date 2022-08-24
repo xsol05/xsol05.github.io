@@ -150,7 +150,7 @@ Some disclaimers:
 
 The application process varies between companies and type of role but is usually like this:
 
-Apply online → Online assessment eg technical test or some psychometric test → Second test eg on-site day → interview → offer
+Apply online → Online assessment eg technical test or some psychometric test → Second test eg on-site day → Interview → Offer
 
 There’s a lot to keep track of, so it’s good to have a place where you can record the progress of each. I recommend this [Notion Job Application tracker](https://www.notion.so/Job-Applications-100b27b3fdaa478799ca948a9808b70c) 🗂
 
