@@ -84,7 +84,20 @@ emotion.happy = false;
 console.log(emotion); // { happy: false }
 ```
 
-Since a variable, regardless of its keyword, simply points to a value, this means that the behaviour of the value being changed depends on the **type** of value being manipulated.
+**Conventions for naming variables:**
+
+- Can only contain letters, numbers (cannot be at the front), `$` and `_`
+- Cannot include reserved keywords eg `new`, `function`, `name`
+- Should not start with an upper case letter
+- Variables that are a constant and will never change should all be in upper case
+- Should be in Camel case (ie first letter of first word is in lower case, first letter of subsequent words is in upper case) eg `firstName`
+- Should be as descriptive as possible eg instead of `h` do `height`; instead of `school1` do `primarySchool`
+
+**Some points to consider:**
+
+- As a rule of thumb, use `const` by default and `let` only when you are really sure that the variable needs to change at some point in the future. It is good practice to have as little variable mutations or changes as possible so that there is a lower chance of bugs being introduced.
+- Technically you could define a variable without giving it a keyword and it would still work, but it is not a good idea as it does not create a variable in the current scope. Instead, JavaScript will create a property on the global object.
+- Since a variable, regardless of its keyword, simply points to a value, this means that the behaviour of the value being changed depends on the **type** of value being manipulated.
 
 ## Value Types
 
@@ -104,6 +117,8 @@ const emotion = {
 };
 typeof emotion; // 'object'
 ```
+
+Note: JavaScript has **dynamic typing** meaning we do not have to manually define the type of a variable. Instead, they are determined automatically.
 
 <!-- | Primitive (immutable) | Non-primitive (mutable)               |
 | --------------------- | ------------------------------------- |
@@ -294,6 +309,7 @@ console.log(i);
 
 **References**
 
+- Jonas Schmedtmann's [The Complete JavaScript Course](https://www.udemy.com/course/the-complete-javascript-course/) (highly recommended!)
 - Dan Abramov's [JustJavaScript](https://justjavascript.com/) course (highly recommended!)
 - https://www.geeksforgeeks.org/difference-between-var-let-and-const-keywords-in-javascript/
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol
