@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Mentor on Magdeline Huang</title>
+    <link>https://magdelinehuang.com/tags/mentor/</link>
+    <description>Recent content in Mentor on Magdeline Huang</description>
+    <image>
+      <url>https://magdelinehuang.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://magdelinehuang.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 31 Jan 2023 14:11:18 +0800</lastBuildDate><atom:link href="https://magdelinehuang.com/tags/mentor/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🍎 Why a Mentor-Mentee Relationship is so Important</title>
+      <link>https://magdelinehuang.com/posts/006-mentorship/</link>
+      <pubDate>Tue, 31 Jan 2023 14:11:18 +0800</pubDate>
+      
+      <guid>https://magdelinehuang.com/posts/006-mentorship/</guid>
+      <description>And how you can start one</description>
+    </item>
+    
+  </channel>
+</rss>
