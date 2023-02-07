@@ -59,7 +59,7 @@ For these dedicated mentoring sessions, we decided that one hour per week on a F
 
 ### Session agenda
 
-We agreed that having a meeting agenda was very important for us. Throughout the week, I would note down any questions that popped up. I would aim to get all of the questions down by EOD Thursday so that my mentor could prepare in advance.
+We agreed that having a meeting agenda was very important for us. Throughout the week, I would note down any questions that popped up. I would aim to get all of the questions down by EOD Thursday so that my mentor could prepare in advance. One of the most important things to be aware of when forming a mentor-mentee relationship is to respect each other’s time, particularly the senior mentor who is often time-poor. Preparing the meeting agenda beforehand ensures that both parties will maximise their value from these sessions.
 
 ## Benefits of having a mentor-mentee relationship
 
@@ -69,7 +69,7 @@ We have had this mentorship programme running for around a year now, and it has 
 
 From a mentee perspective, I have found it incredibly beneficial to have an experienced Software Engineer as a mentor to learn from. We have been able to discuss and clarify mental models which have strengthened my understanding of concepts; I have been able to learn tips and practices that may not be “Googleable” and would have probably taken me years to discover; I have been able to learn from his career experiences and journey.
 
-My technical skills and knowledge have also improved tremendously compared to when I first started out, and it has been very encouraging to be able to see and feel this difference. For example, I am not blocked as frequently anymore, or even if I am, I can unblock myself, and that is because of the correct mental models I have now. Ultimately, it is also really good for the company, because work gets done faster!
+My technical skills and knowledge have also improved tremendously compared to when I first started out, and it has been very encouraging to be able to see and feel this difference. For example, I am not blocked as frequently anymore, or even if I am, I can unblock myself, and that is because of the correct mental models I have now. Ultimately, it is also really good for the company, because work gets done faster! The biggest testament to my growth so far has been my recent promotion to Software Development Engineer 2 in just 9 months! This definitely would not have been possible without the support of my mentor and colleagues.
 
 ### From a mentor perspective
 
