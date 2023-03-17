@@ -36,7 +36,7 @@ editPost:
 
 If you manage your Git workflow via the terminal and your terminal is [Oh My Zsh](https://ohmyz.sh/), then you're in for a treat.
 
-These aliases are an absolute game-changer 🤯
+Oh My Zsh has a bunch of built-in aliases for Git commands which are an absolute game-changer 🤯
 
 ```Bash
 gst = git status # status of your repo and changes
