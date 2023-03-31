@@ -23,7 +23,7 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "<image path/url>" # image path/url
+    image: "https://www.searchenginejournal.com/wp-content/uploads/2020/08/9-ways-you-can-make-your-website-more-accessible-5f3f5d3bd7a34.png" # image path/url
     alt: "<alt text>" # alt text
     caption: "<text>" # display caption under cover
     relative: false # when using page bundles set this to true
