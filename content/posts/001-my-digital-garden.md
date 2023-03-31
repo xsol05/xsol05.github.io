@@ -32,7 +32,7 @@ cover:
 
 Hello world!
 
-I graduated from the University of Otago last December where I studied Computer Science and Entrepreneurship, and now I'm working as a Software Engineer at a fintech / regtech scaleup.
+I graduated from the University of Otago last December where I studied Computer Science and Entrepreneurship, and now I'm working as a Software Engineer at a fintech / regtech scaleup (a startup in growth phase).
 
 It's been 6 months and I've learnt so much, so I figured it was about time I started a blog to document all my learnings!
 
