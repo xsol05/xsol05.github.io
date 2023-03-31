@@ -38,6 +38,8 @@ editPost:
 
 <!-- {{< figure src="/images/accessibility.jpg#centre" alt="Accessibility Erosion by Ben Evans" caption="Accessibility Erosion by Ben Evans" height="400px" width="300px">}} -->
 
+![Img](https://www.searchenginejournal.com/wp-content/uploads/2020/08/9-ways-you-can-make-your-website-more-accessible-5f3f5d3bd7a34.png#center)
+
 I recently attended my first ever [dev meet up](https://www.meetup.com/full-stack-dev-new-zealand/events/291941981/) hosted by [Full Stack Dev Group](https://www.meetup.com/full-stack-dev-new-zealand/)!
 
 Here's my takeaways from the accessibility talk by [Ben Evans](https://benevans.buzz/). You can find the slides [here](https://docs.google.com/presentation/d/1tAjibS4JIEm7VwjFTmsU8Y3-yHDPeH-ZIN-lo1m52Gk/edit#slide=id.gd362d286f3_1_0).
