@@ -1,7 +1,7 @@
 ---
 title: "👩🏻‍💻 Learnings From My First Year as a Software Engineer"
-date: 2023-03-27T16:45:07+13:00
-draft: true
+date: 2023-04-11T16:41:13+12:00
+draft: false
 summary: "Reflections on how I ended up here and what I've learnt along the way" #displays underneath title in blog title card on homepage
 description: "Reflections on how I ended up here and what I've learnt along the way" #displays underneath title in actual blog page
 tags: ["Career"]
@@ -23,20 +23,22 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "<image path/url>" # image path/url
+    image: "/images/uoa2.jpg" # image path/url
     alt: "<alt text>" # alt text
     caption: "<text>" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: true # only hide on current single page
-editPost:
-    URL: "https://github.com/xsol05/xsol05.github.io/blob/main/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
 ---
 
 I began my career as a Software Engineer in Jan 2022, so it's been just over a year now since I started working 🤯
 
-I thought it'd be nice to take a trip down memory lane to reflect on how I ended up here and what I've learnt along the way.
+Last week, my colleague [James Won](https://github.com/jwwnz) and I had the amazing opportunity to present to a Computer Science class at the University of Auckland about our journey and working in frontend.
+
+Here's an excerpt from the talk where I took a trip down memory lane to reflect on how I ended up here and what I've learnt along the way.
+
+{{< figure src="/images/uoa1.jpg#center" alt="Selfie with my colleague and the lecturer!" caption="Selfie with my colleague (James Won) and the lecturer (Andrew Meads)!">}}
+
+{{< figure src="/images/uoa2.jpg#center" alt="Selfie with the class!" caption="Selfie with the class!">}}
 
 ## How I ended up as a Software Engineer at a tech scaleup
 
@@ -47,6 +49,8 @@ In my final year of university, I considered a few career options. I was interes
 
 I chose to work at a scale up (a startup in growth phase) because I felt like it was the sweet spot for me. It has more structure and support than an early stage startup, but it has a lot more flexibility for innovation and growth compared to a corporate. (PS See [here](https://magdelinehuang.com/posts/005-internships/#the-type-of-company) for my comparison of different types of companies)
 
+{{< figure src="/images/uoa3.jpg#center" alt="Where it all began" caption="Where it all began :)">}}
+
 ## Things I've learnt in my first year
 
 This past year has been full of new experiences and learnings for me. Here are some things I've learnt:
@@ -55,7 +59,7 @@ This past year has been full of new experiences and learnings for me. Here are s
 
 When you first begin your career, it’s easy to think of yourself as just “the intern” or “the junior”.
 
-You might not feel comfortable speaking up in meetings as you may feel your opinions aren’t valid, or you may not pick up certain tasks as you may think it’s beyond your ability.
+You might not feel comfortable speaking up in meetings as you may feel your opinions aren’t valid, or you may not pick up certain tasks as you may think they're beyond your ability.
 
 However you don’t have to label yourself. Everyone starts somewhere. All the seniors were once juniors, and soon there will be juniors after you.
 
@@ -123,15 +127,12 @@ There’s a platform called Meetup that has plenty of such groups you can join:
 - [meetup.com/women-in-tech-meetup-auckland/](https://www.meetup.com/women-in-tech-meetup-auckland/)
 - [meetup.com/akl-net/](https://www.meetup.com/akl-net/)
 
-I recently went to my first ever [dev event](https://www.meetup.com/full-stack-dev-new-zealand/events/291941981/) which was on accessibility and open-source software Here's what I learnt about accessibility!
+I recently went to my first ever dev event which was on accessibility and open-source software. [Here](https://magdelinehuang.com/posts/008-accessibility/) is my blog post on what I learnt about accessibility!
 
 ## Thoughts
 
-In conclusion, I had a great year 😁 I actually enjoy working life more than student life haha 🤣 Year 2, onwards!
+In conclusion, I had a great year 😁 Working life is proving itself to be more fun and enjoyable than student life 🤣 I'm not missing those assignments and deadlines anytime soon 😅
 
-TODO:
+While I've grown a lot in my technical and soft skills this past year, there's still lots of room for improvement so I'm looking forward to more learnings in year two!
 
-- Elaborate on thoughts
-- Talk about differences between uni and work?
-- Change publish date
-- Include pic from UoA talk
+Also, super grateful to have been able to share about my experiences to the Comp Sci students at UoA! Never thought I'd be giving a talk at a uni in my life 🤯 Thank you to my colleague and the lecturer, Andrew Meads, for the opportunity!

@@ -9,7 +9,16 @@
       <link>https://magdelinehuang.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 31 Mar 2023 18:11:56 +1300</lastBuildDate><atom:link href="https://magdelinehuang.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 11 Apr 2023 16:41:13 +1200</lastBuildDate><atom:link href="https://magdelinehuang.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Career</title>
+      <link>https://magdelinehuang.com/tags/career/</link>
+      <pubDate>Tue, 11 Apr 2023 16:41:13 +1200</pubDate>
+      
+      <guid>https://magdelinehuang.com/tags/career/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Accessibility</title>
       <link>https://magdelinehuang.com/tags/accessibility/</link>
@@ -25,15 +34,6 @@
       <pubDate>Fri, 17 Mar 2023 14:36:08 +1300</pubDate>
       
       <guid>https://magdelinehuang.com/tags/git/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Career</title>
-      <link>https://magdelinehuang.com/tags/career/</link>
-      <pubDate>Tue, 31 Jan 2023 14:11:18 +0800</pubDate>
-      
-      <guid>https://magdelinehuang.com/tags/career/</guid>
       <description></description>
     </item>
     
