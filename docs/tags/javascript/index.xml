@@ -9,7 +9,16 @@
       <link>https://magdelinehuang.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 21 Jul 2022 18:28:25 +1200</lastBuildDate><atom:link href="https://magdelinehuang.com/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 23 May 2023 14:43:53 +1200</lastBuildDate><atom:link href="https://magdelinehuang.com/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🌸 JavaScript Array Methods</title>
+      <link>https://magdelinehuang.com/posts/010-js-arrays/</link>
+      <pubDate>Tue, 23 May 2023 14:43:53 +1200</pubDate>
+      
+      <guid>https://magdelinehuang.com/posts/010-js-arrays/</guid>
+      <description>Nine of the most commonly used array methods</description>
+    </item>
+    
     <item>
       <title>🍰 JavaScript Variables and Value Types</title>
       <link>https://magdelinehuang.com/posts/002-js-variables-and-value-types/</link>
