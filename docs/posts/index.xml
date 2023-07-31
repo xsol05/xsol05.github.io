@@ -9,7 +9,7 @@
       <link>https://magdelinehuang.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 23 May 2023 14:43:53 +1200</lastBuildDate><atom:link href="https://magdelinehuang.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 31 Jul 2023 22:08:36 +1200</lastBuildDate><atom:link href="https://magdelinehuang.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>🌷 My Digital Garden</title>
       <link>https://magdelinehuang.com/posts/001-my-digital-garden/</link>
@@ -17,6 +17,15 @@
       
       <guid>https://magdelinehuang.com/posts/001-my-digital-garden/</guid>
       <description>A bit about me and my garden</description>
+    </item>
+    
+    <item>
+      <title>🛼 How to Create a Loading Skeleton Animation</title>
+      <link>https://magdelinehuang.com/posts/011-loading-skeleton/</link>
+      <pubDate>Mon, 31 Jul 2023 22:08:36 +1200</pubDate>
+      
+      <guid>https://magdelinehuang.com/posts/011-loading-skeleton/</guid>
+      <description>But let&amp;#39;s start with what even is a loading skeleton and why we need it</description>
     </item>
     
     <item>
