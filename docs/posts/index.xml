@@ -2,120 +2,120 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Magdeline Huang</title>
-    <link>https://magdelinehuang.com/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Magdeline Huang</description>
     <image>
-      <url>https://magdelinehuang.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://magdelinehuang.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 04 Oct 2024 16:40:05 +0800</lastBuildDate><atom:link href="https://magdelinehuang.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 04 Oct 2024 16:40:05 +0800</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>🌷 My Digital Garden</title>
-      <link>https://magdelinehuang.com/posts/001-my-digital-garden/</link>
+      <link>http://localhost:1313/posts/001-my-digital-garden/</link>
       <pubDate>Mon, 27 Jun 2022 13:00:42 +1200</pubDate>
       
-      <guid>https://magdelinehuang.com/posts/001-my-digital-garden/</guid>
+      <guid>http://localhost:1313/posts/001-my-digital-garden/</guid>
       <description>A bit about me and my garden</description>
     </item>
     
     <item>
       <title>🇸🇬 City JS 2024 </title>
-      <link>https://magdelinehuang.com/posts/012-city-js-2024/</link>
+      <link>http://localhost:1313/posts/012-city-js-2024/</link>
       <pubDate>Fri, 04 Oct 2024 16:40:05 +0800</pubDate>
       
-      <guid>https://magdelinehuang.com/posts/012-city-js-2024/</guid>
+      <guid>http://localhost:1313/posts/012-city-js-2024/</guid>
       <description>Attending my first ever international tech conference in Singapore!</description>
     </item>
     
     <item>
       <title>🛼 How to Create a Loading Skeleton Animation</title>
-      <link>https://magdelinehuang.com/posts/011-loading-skeleton/</link>
+      <link>http://localhost:1313/posts/011-loading-skeleton/</link>
       <pubDate>Mon, 31 Jul 2023 22:08:36 +1200</pubDate>
       
-      <guid>https://magdelinehuang.com/posts/011-loading-skeleton/</guid>
+      <guid>http://localhost:1313/posts/011-loading-skeleton/</guid>
       <description>But let&amp;#39;s start with what even is a loading skeleton and why we need it</description>
     </item>
     
     <item>
       <title>🌸 JavaScript Array Methods</title>
-      <link>https://magdelinehuang.com/posts/010-js-arrays/</link>
+      <link>http://localhost:1313/posts/010-js-arrays/</link>
       <pubDate>Tue, 23 May 2023 14:43:53 +1200</pubDate>
       
-      <guid>https://magdelinehuang.com/posts/010-js-arrays/</guid>
+      <guid>http://localhost:1313/posts/010-js-arrays/</guid>
       <description>Nine of the most commonly used array methods</description>
     </item>
     
     <item>
       <title>👩🏻‍💻 Learnings From My First Year as a Software Engineer</title>
-      <link>https://magdelinehuang.com/posts/009-learnings-from-year-one/</link>
+      <link>http://localhost:1313/posts/009-learnings-from-year-one/</link>
       <pubDate>Tue, 11 Apr 2023 16:41:13 +1200</pubDate>
       
-      <guid>https://magdelinehuang.com/posts/009-learnings-from-year-one/</guid>
+      <guid>http://localhost:1313/posts/009-learnings-from-year-one/</guid>
       <description>Reflections on how I ended up here and what I&amp;#39;ve learnt along the way</description>
     </item>
     
     <item>
       <title>♿️ Accessibility</title>
-      <link>https://magdelinehuang.com/posts/008-accessibility/</link>
+      <link>http://localhost:1313/posts/008-accessibility/</link>
       <pubDate>Fri, 31 Mar 2023 18:11:56 +1300</pubDate>
       
-      <guid>https://magdelinehuang.com/posts/008-accessibility/</guid>
+      <guid>http://localhost:1313/posts/008-accessibility/</guid>
       <description>My takeaways from a talk on accessibility</description>
     </item>
     
     <item>
       <title>✨ Oh My Zsh Git Aliases</title>
-      <link>https://magdelinehuang.com/posts/007-zsh-git-aliases/</link>
+      <link>http://localhost:1313/posts/007-zsh-git-aliases/</link>
       <pubDate>Fri, 17 Mar 2023 14:36:08 +1300</pubDate>
       
-      <guid>https://magdelinehuang.com/posts/007-zsh-git-aliases/</guid>
+      <guid>http://localhost:1313/posts/007-zsh-git-aliases/</guid>
       <description>Supercharge your Git workflow in Oh My Zsh</description>
     </item>
     
     <item>
       <title>🍎 Why a Mentor-Mentee Relationship is so Important</title>
-      <link>https://magdelinehuang.com/posts/006-mentorship/</link>
+      <link>http://localhost:1313/posts/006-mentorship/</link>
       <pubDate>Tue, 31 Jan 2023 14:11:18 +0800</pubDate>
       
-      <guid>https://magdelinehuang.com/posts/006-mentorship/</guid>
+      <guid>http://localhost:1313/posts/006-mentorship/</guid>
       <description>And how you can start one</description>
     </item>
     
     <item>
       <title>👩🏻‍🎓 Internships and Jobs 101</title>
-      <link>https://magdelinehuang.com/posts/005-internships/</link>
+      <link>http://localhost:1313/posts/005-internships/</link>
       <pubDate>Mon, 22 Aug 2022 21:58:49 +1200</pubDate>
       
-      <guid>https://magdelinehuang.com/posts/005-internships/</guid>
+      <guid>http://localhost:1313/posts/005-internships/</guid>
       <description>A guide to internships and jobs</description>
     </item>
     
     <item>
       <title>💀 My First Postmortem</title>
-      <link>https://magdelinehuang.com/posts/004-my-first-post-mortem/</link>
+      <link>http://localhost:1313/posts/004-my-first-post-mortem/</link>
       <pubDate>Fri, 19 Aug 2022 14:09:59 +1200</pubDate>
       
-      <guid>https://magdelinehuang.com/posts/004-my-first-post-mortem/</guid>
+      <guid>http://localhost:1313/posts/004-my-first-post-mortem/</guid>
       <description>I &amp;lsquo;broke&amp;rsquo; production 😅 Here&amp;rsquo;s what happened and what I learnt</description>
     </item>
     
     <item>
       <title>🔎 Being Glue</title>
-      <link>https://magdelinehuang.com/posts/003-being-glue/</link>
+      <link>http://localhost:1313/posts/003-being-glue/</link>
       <pubDate>Mon, 15 Aug 2022 10:56:23 +1200</pubDate>
       
-      <guid>https://magdelinehuang.com/posts/003-being-glue/</guid>
+      <guid>http://localhost:1313/posts/003-being-glue/</guid>
       <description>My takeaways from a really famous career talk by Tanya Reilly. PS read this if you&amp;rsquo;re underrepresented in tech</description>
     </item>
     
     <item>
       <title>🍰 JavaScript Variables and Value Types</title>
-      <link>https://magdelinehuang.com/posts/002-js-variables-and-value-types/</link>
+      <link>http://localhost:1313/posts/002-js-variables-and-value-types/</link>
       <pubDate>Thu, 21 Jul 2022 18:28:25 +1200</pubDate>
       
-      <guid>https://magdelinehuang.com/posts/002-js-variables-and-value-types/</guid>
+      <guid>http://localhost:1313/posts/002-js-variables-and-value-types/</guid>
       <description>The basics aren&amp;#39;t very basic</description>
     </item>
     

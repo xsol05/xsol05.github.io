@@ -2,120 +2,120 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Magdeline Huang</title>
-    <link>https://magdelinehuang.com/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Magdeline Huang</description>
     <image>
-      <url>https://magdelinehuang.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://magdelinehuang.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 04 Oct 2024 16:40:05 +0800</lastBuildDate><atom:link href="https://magdelinehuang.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 04 Oct 2024 16:40:05 +0800</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Career</title>
-      <link>https://magdelinehuang.com/tags/career/</link>
+      <link>http://localhost:1313/tags/career/</link>
       <pubDate>Fri, 04 Oct 2024 16:40:05 +0800</pubDate>
       
-      <guid>https://magdelinehuang.com/tags/career/</guid>
+      <guid>http://localhost:1313/tags/career/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Conference</title>
-      <link>https://magdelinehuang.com/tags/conference/</link>
+      <link>http://localhost:1313/tags/conference/</link>
       <pubDate>Fri, 04 Oct 2024 16:40:05 +0800</pubDate>
       
-      <guid>https://magdelinehuang.com/tags/conference/</guid>
+      <guid>http://localhost:1313/tags/conference/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Animations</title>
-      <link>https://magdelinehuang.com/tags/animations/</link>
+      <link>http://localhost:1313/tags/animations/</link>
       <pubDate>Mon, 31 Jul 2023 22:08:36 +1200</pubDate>
       
-      <guid>https://magdelinehuang.com/tags/animations/</guid>
+      <guid>http://localhost:1313/tags/animations/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CSS</title>
-      <link>https://magdelinehuang.com/tags/css/</link>
+      <link>http://localhost:1313/tags/css/</link>
       <pubDate>Mon, 31 Jul 2023 22:08:36 +1200</pubDate>
       
-      <guid>https://magdelinehuang.com/tags/css/</guid>
+      <guid>http://localhost:1313/tags/css/</guid>
       <description></description>
     </item>
     
     <item>
       <title>JavaScript</title>
-      <link>https://magdelinehuang.com/tags/javascript/</link>
+      <link>http://localhost:1313/tags/javascript/</link>
       <pubDate>Tue, 23 May 2023 14:43:53 +1200</pubDate>
       
-      <guid>https://magdelinehuang.com/tags/javascript/</guid>
+      <guid>http://localhost:1313/tags/javascript/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Accessibility</title>
-      <link>https://magdelinehuang.com/tags/accessibility/</link>
+      <link>http://localhost:1313/tags/accessibility/</link>
       <pubDate>Fri, 31 Mar 2023 18:11:56 +1300</pubDate>
       
-      <guid>https://magdelinehuang.com/tags/accessibility/</guid>
+      <guid>http://localhost:1313/tags/accessibility/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Git</title>
-      <link>https://magdelinehuang.com/tags/git/</link>
+      <link>http://localhost:1313/tags/git/</link>
       <pubDate>Fri, 17 Mar 2023 14:36:08 +1300</pubDate>
       
-      <guid>https://magdelinehuang.com/tags/git/</guid>
+      <guid>http://localhost:1313/tags/git/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mentor</title>
-      <link>https://magdelinehuang.com/tags/mentor/</link>
+      <link>http://localhost:1313/tags/mentor/</link>
       <pubDate>Tue, 31 Jan 2023 14:11:18 +0800</pubDate>
       
-      <guid>https://magdelinehuang.com/tags/mentor/</guid>
+      <guid>http://localhost:1313/tags/mentor/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Internships</title>
-      <link>https://magdelinehuang.com/tags/internships/</link>
+      <link>http://localhost:1313/tags/internships/</link>
       <pubDate>Mon, 22 Aug 2022 21:58:49 +1200</pubDate>
       
-      <guid>https://magdelinehuang.com/tags/internships/</guid>
+      <guid>http://localhost:1313/tags/internships/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Resume / CV</title>
-      <link>https://magdelinehuang.com/tags/resume-/-cv/</link>
+      <link>http://localhost:1313/tags/resume-/-cv/</link>
       <pubDate>Mon, 22 Aug 2022 21:58:49 +1200</pubDate>
       
-      <guid>https://magdelinehuang.com/tags/resume-/-cv/</guid>
+      <guid>http://localhost:1313/tags/resume-/-cv/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Student</title>
-      <link>https://magdelinehuang.com/tags/student/</link>
+      <link>http://localhost:1313/tags/student/</link>
       <pubDate>Mon, 22 Aug 2022 21:58:49 +1200</pubDate>
       
-      <guid>https://magdelinehuang.com/tags/student/</guid>
+      <guid>http://localhost:1313/tags/student/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Women in Tech</title>
-      <link>https://magdelinehuang.com/tags/women-in-tech/</link>
+      <link>http://localhost:1313/tags/women-in-tech/</link>
       <pubDate>Mon, 15 Aug 2022 10:56:23 +1200</pubDate>
       
-      <guid>https://magdelinehuang.com/tags/women-in-tech/</guid>
+      <guid>http://localhost:1313/tags/women-in-tech/</guid>
       <description></description>
     </item>
     
