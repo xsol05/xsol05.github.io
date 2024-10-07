@@ -4,7 +4,7 @@ date: 2023-03-31T18:11:56+13:00
 draft: false
 summary: "My takeaways from a talk on accessibility" #displays underneath title in blog title card on homepage
 description: "My takeaways from a talk on accessibility" #displays underneath title in actual blog page
-tags: ["Accessibility"]
+tags: ["Accessibility", "Conference"]
 author: "Magdeline Huang"
 showToc: true
 TocOpen: false

@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Women in tech on Magdeline Huang</title>
+    <title>Women in Tech on Magdeline Huang</title>
     <link>https://magdelinehuang.com/tags/women-in-tech/</link>
-    <description>Recent content in Women in tech on Magdeline Huang</description>
+    <description>Recent content in Women in Tech on Magdeline Huang</description>
     <image>
       <url>https://magdelinehuang.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://magdelinehuang.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
     <lastBuildDate>Mon, 15 Aug 2022 10:56:23 +1200</lastBuildDate><atom:link href="https://magdelinehuang.com/tags/women-in-tech/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>🔎 Being Glue</title>
