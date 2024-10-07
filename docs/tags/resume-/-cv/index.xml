@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Resume / CV on Magdeline Huang</title>
-    <link>http://localhost:1313/tags/resume-/-cv/</link>
+    <link>https://magdelinehuang.com/tags/resume-/-cv/</link>
     <description>Recent content in Resume / CV on Magdeline Huang</description>
     <image>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://magdelinehuang.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://magdelinehuang.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 22 Aug 2022 21:58:49 +1200</lastBuildDate><atom:link href="http://localhost:1313/tags/resume-/-cv/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 22 Aug 2022 21:58:49 +1200</lastBuildDate><atom:link href="https://magdelinehuang.com/tags/resume-/-cv/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>👩🏻‍🎓 Internships and Jobs 101</title>
-      <link>http://localhost:1313/posts/005-internships/</link>
+      <link>https://magdelinehuang.com/posts/005-internships/</link>
       <pubDate>Mon, 22 Aug 2022 21:58:49 +1200</pubDate>
       
-      <guid>http://localhost:1313/posts/005-internships/</guid>
+      <guid>https://magdelinehuang.com/posts/005-internships/</guid>
       <description>A guide to internships and jobs</description>
     </item>
     
