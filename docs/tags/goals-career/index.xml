@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Goals, Career on Magdeline Huang</title>
+    <link>http://localhost:1313/tags/goals-career/</link>
+    <description>Recent content in Goals, Career on Magdeline Huang</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 27 Jun 2022 17:41:52 +1200</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/goals-career/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Tech Goals for 2025</title>
+      <link>http://localhost:1313/posts/013-tech-goals-for-2025/</link>
+      <pubDate>Mon, 27 Jun 2022 17:41:52 +1200</pubDate>
+      <guid>http://localhost:1313/posts/013-tech-goals-for-2025/</guid>
+      <description>In my ✨ creative ✨ era</description>
+    </item>
+  </channel>
+</rss>
