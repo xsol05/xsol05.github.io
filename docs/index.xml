@@ -1,142 +1,124 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Magdeline Huang</title>
     <link>https://magdelinehuang.com/</link>
     <description>Recent content on Magdeline Huang</description>
-    <image>
-      <url>https://magdelinehuang.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://magdelinehuang.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
-    </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 04 Oct 2024 16:40:05 +0800</lastBuildDate><atom:link href="https://magdelinehuang.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 06 Jan 2025 11:44:09 +0800</lastBuildDate>
+    <atom:link href="https://magdelinehuang.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>🌷 My Digital Garden</title>
       <link>https://magdelinehuang.com/posts/001-my-digital-garden/</link>
       <pubDate>Mon, 27 Jun 2022 13:00:42 +1200</pubDate>
-      
       <guid>https://magdelinehuang.com/posts/001-my-digital-garden/</guid>
       <description>A bit about me and my garden</description>
     </item>
-    
+    <item>
+      <title>🏆 My Tech Goals for 2025</title>
+      <link>https://magdelinehuang.com/posts/013-tech-goals-for-2025/</link>
+      <pubDate>Mon, 06 Jan 2025 11:44:09 +0800</pubDate>
+      <guid>https://magdelinehuang.com/posts/013-tech-goals-for-2025/</guid>
+      <description>In my ✨ creative ✨ era</description>
+    </item>
     <item>
       <title>🇸🇬 City JS 2024 </title>
       <link>https://magdelinehuang.com/posts/012-city-js-2024/</link>
       <pubDate>Fri, 04 Oct 2024 16:40:05 +0800</pubDate>
-      
       <guid>https://magdelinehuang.com/posts/012-city-js-2024/</guid>
       <description>Attending my first ever international tech conference in Singapore!</description>
     </item>
-    
     <item>
       <title>🛼 How to Create a Loading Skeleton Animation</title>
       <link>https://magdelinehuang.com/posts/011-loading-skeleton/</link>
       <pubDate>Mon, 31 Jul 2023 22:08:36 +1200</pubDate>
-      
       <guid>https://magdelinehuang.com/posts/011-loading-skeleton/</guid>
-      <description>But let&amp;#39;s start with what even is a loading skeleton and why we need it</description>
+      <description>But let&amp;rsquo;s start with what even is a loading skeleton and why we need it</description>
     </item>
-    
     <item>
       <title>🌸 JavaScript Array Methods</title>
       <link>https://magdelinehuang.com/posts/010-js-arrays/</link>
       <pubDate>Tue, 23 May 2023 14:43:53 +1200</pubDate>
-      
       <guid>https://magdelinehuang.com/posts/010-js-arrays/</guid>
       <description>Nine of the most commonly used array methods</description>
     </item>
-    
     <item>
       <title>👩🏻‍💻 Learnings From My First Year as a Software Engineer</title>
       <link>https://magdelinehuang.com/posts/009-learnings-from-year-one/</link>
       <pubDate>Tue, 11 Apr 2023 16:41:13 +1200</pubDate>
-      
       <guid>https://magdelinehuang.com/posts/009-learnings-from-year-one/</guid>
-      <description>Reflections on how I ended up here and what I&amp;#39;ve learnt along the way</description>
+      <description>Reflections on how I ended up here and what I&amp;rsquo;ve learnt along the way</description>
     </item>
-    
     <item>
       <title>♿️ Accessibility</title>
       <link>https://magdelinehuang.com/posts/008-accessibility/</link>
       <pubDate>Fri, 31 Mar 2023 18:11:56 +1300</pubDate>
-      
       <guid>https://magdelinehuang.com/posts/008-accessibility/</guid>
       <description>My takeaways from a talk on accessibility</description>
     </item>
-    
     <item>
       <title>✨ Oh My Zsh Git Aliases</title>
       <link>https://magdelinehuang.com/posts/007-zsh-git-aliases/</link>
       <pubDate>Fri, 17 Mar 2023 14:36:08 +1300</pubDate>
-      
       <guid>https://magdelinehuang.com/posts/007-zsh-git-aliases/</guid>
       <description>Supercharge your Git workflow in Oh My Zsh</description>
     </item>
-    
     <item>
       <title>🍎 Why a Mentor-Mentee Relationship is so Important</title>
       <link>https://magdelinehuang.com/posts/006-mentorship/</link>
       <pubDate>Tue, 31 Jan 2023 14:11:18 +0800</pubDate>
-      
       <guid>https://magdelinehuang.com/posts/006-mentorship/</guid>
       <description>And how you can start one</description>
     </item>
-    
     <item>
       <title>👩🏻‍🎓 Internships and Jobs 101</title>
       <link>https://magdelinehuang.com/posts/005-internships/</link>
       <pubDate>Mon, 22 Aug 2022 21:58:49 +1200</pubDate>
-      
       <guid>https://magdelinehuang.com/posts/005-internships/</guid>
       <description>A guide to internships and jobs</description>
     </item>
-    
     <item>
       <title>💀 My First Postmortem</title>
       <link>https://magdelinehuang.com/posts/004-my-first-post-mortem/</link>
       <pubDate>Fri, 19 Aug 2022 14:09:59 +1200</pubDate>
-      
       <guid>https://magdelinehuang.com/posts/004-my-first-post-mortem/</guid>
       <description>I &amp;lsquo;broke&amp;rsquo; production 😅 Here&amp;rsquo;s what happened and what I learnt</description>
     </item>
-    
     <item>
       <title>🔎 Being Glue</title>
       <link>https://magdelinehuang.com/posts/003-being-glue/</link>
       <pubDate>Mon, 15 Aug 2022 10:56:23 +1200</pubDate>
-      
       <guid>https://magdelinehuang.com/posts/003-being-glue/</guid>
       <description>My takeaways from a really famous career talk by Tanya Reilly. PS read this if you&amp;rsquo;re underrepresented in tech</description>
     </item>
-    
     <item>
       <title>🍰 JavaScript Variables and Value Types</title>
       <link>https://magdelinehuang.com/posts/002-js-variables-and-value-types/</link>
       <pubDate>Thu, 21 Jul 2022 18:28:25 +1200</pubDate>
-      
       <guid>https://magdelinehuang.com/posts/002-js-variables-and-value-types/</guid>
-      <description>The basics aren&amp;#39;t very basic</description>
+      <description>The basics aren&amp;rsquo;t very basic</description>
     </item>
-    
     <item>
       <title>Changelog</title>
       <link>https://magdelinehuang.com/changelog/</link>
       <pubDate>Mon, 27 Jun 2022 13:00:42 +1200</pubDate>
-      
       <guid>https://magdelinehuang.com/changelog/</guid>
-      <description>It&amp;rsquo;s about the journey, not the destination 🚗
-Done ✅ Create site (done 27/6/22)
-✅ Write and publish my first post (done 27/6/22)
-✅ Publish to GitHub and deploy to GitHub pages (done 27/6/22)
-✅ Buy a domain and link it to my site (done 12/7/22)
-✅ Add favicon (done 21/7/22)
-✅ Write and publish my first content post (done 21/7/22)
-✅ Integrate Disqus comments (done 23/8/22)
-To-Do ⚪️ Add RSS feed</description>
+      <description>&lt;p&gt;It&amp;rsquo;s about the journey, not the destination 🚗&lt;/p&gt;&#xA;&lt;h2 id=&#34;done&#34;&gt;Done&lt;/h2&gt;&#xA;&lt;p&gt;✅ Create site (done 27/6/22)&lt;br&gt;&#xA;✅ Write and publish &lt;a href=&#34;https://magdelinehuang.com/posts/001-my-digital-garden/&#34;&gt;my first post&lt;/a&gt; (done 27/6/22)&lt;br&gt;&#xA;✅ Publish to GitHub and deploy to GitHub pages (done 27/6/22)&lt;br&gt;&#xA;✅ Buy a domain and link it to my site (done 12/7/22)&lt;br&gt;&#xA;✅ Add favicon (done 21/7/22)&lt;br&gt;&#xA;✅ Write and publish &lt;a href=&#34;https://magdelinehuang.com/posts/002-js-variables-and-value-types/&#34;&gt;my first content post&lt;/a&gt; (done 21/7/22)&lt;br&gt;&#xA;✅ Integrate Disqus comments (done 23/8/22)&lt;/p&gt;&#xA;&lt;h2 id=&#34;to-do&#34;&gt;To-Do&lt;/h2&gt;&#xA;&lt;p&gt;⚪️ Add RSS feed&lt;br&gt;&#xA;⚪️ Add Google Analytics&lt;br&gt;&#xA;⚪️ Customise the header and footer (remove the background colour for share buttons)&lt;br&gt;&#xA;⚪️ Fix responsive layout (increase margins)&lt;br&gt;&#xA;⚪️ Create an About page&lt;br&gt;&#xA;⚪️ Create a &lt;a href=&#34;https://nownownow.com/about&#34;&gt;Now page&lt;/a&gt;&lt;br&gt;&#xA;⚪️ Create a 404 page&lt;br&gt;&#xA;⚪️ Add &amp;ldquo;Last edited on&amp;rdquo;&lt;br&gt;&#xA;⚪️ Customise colour of code blocks&lt;/p&gt;</description>
     </item>
-    
-    
-    
+    <item>
+      <title>Archive</title>
+      <link>https://magdelinehuang.com/archive/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://magdelinehuang.com/archive/</guid>
+      <description>archives</description>
+    </item>
+    <item>
+      <title>Search</title>
+      <link>https://magdelinehuang.com/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://magdelinehuang.com/search/</guid>
+      <description>search</description>
+    </item>
   </channel>
 </rss>

@@ -1,69 +1,61 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Career on Magdeline Huang</title>
     <link>https://magdelinehuang.com/tags/career/</link>
     <description>Recent content in Career on Magdeline Huang</description>
-    <image>
-      <url>https://magdelinehuang.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://magdelinehuang.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
-    </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 04 Oct 2024 16:40:05 +0800</lastBuildDate><atom:link href="https://magdelinehuang.com/tags/career/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 06 Jan 2025 11:44:09 +0800</lastBuildDate>
+    <atom:link href="https://magdelinehuang.com/tags/career/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🏆 My Tech Goals for 2025</title>
+      <link>https://magdelinehuang.com/posts/013-tech-goals-for-2025/</link>
+      <pubDate>Mon, 06 Jan 2025 11:44:09 +0800</pubDate>
+      <guid>https://magdelinehuang.com/posts/013-tech-goals-for-2025/</guid>
+      <description>In my ✨ creative ✨ era</description>
+    </item>
     <item>
       <title>🇸🇬 City JS 2024 </title>
       <link>https://magdelinehuang.com/posts/012-city-js-2024/</link>
       <pubDate>Fri, 04 Oct 2024 16:40:05 +0800</pubDate>
-      
       <guid>https://magdelinehuang.com/posts/012-city-js-2024/</guid>
       <description>Attending my first ever international tech conference in Singapore!</description>
     </item>
-    
     <item>
       <title>👩🏻‍💻 Learnings From My First Year as a Software Engineer</title>
       <link>https://magdelinehuang.com/posts/009-learnings-from-year-one/</link>
       <pubDate>Tue, 11 Apr 2023 16:41:13 +1200</pubDate>
-      
       <guid>https://magdelinehuang.com/posts/009-learnings-from-year-one/</guid>
-      <description>Reflections on how I ended up here and what I&amp;#39;ve learnt along the way</description>
+      <description>Reflections on how I ended up here and what I&amp;rsquo;ve learnt along the way</description>
     </item>
-    
     <item>
       <title>🍎 Why a Mentor-Mentee Relationship is so Important</title>
       <link>https://magdelinehuang.com/posts/006-mentorship/</link>
       <pubDate>Tue, 31 Jan 2023 14:11:18 +0800</pubDate>
-      
       <guid>https://magdelinehuang.com/posts/006-mentorship/</guid>
       <description>And how you can start one</description>
     </item>
-    
     <item>
       <title>👩🏻‍🎓 Internships and Jobs 101</title>
       <link>https://magdelinehuang.com/posts/005-internships/</link>
       <pubDate>Mon, 22 Aug 2022 21:58:49 +1200</pubDate>
-      
       <guid>https://magdelinehuang.com/posts/005-internships/</guid>
       <description>A guide to internships and jobs</description>
     </item>
-    
     <item>
       <title>💀 My First Postmortem</title>
       <link>https://magdelinehuang.com/posts/004-my-first-post-mortem/</link>
       <pubDate>Fri, 19 Aug 2022 14:09:59 +1200</pubDate>
-      
       <guid>https://magdelinehuang.com/posts/004-my-first-post-mortem/</guid>
       <description>I &amp;lsquo;broke&amp;rsquo; production 😅 Here&amp;rsquo;s what happened and what I learnt</description>
     </item>
-    
     <item>
       <title>🔎 Being Glue</title>
       <link>https://magdelinehuang.com/posts/003-being-glue/</link>
       <pubDate>Mon, 15 Aug 2022 10:56:23 +1200</pubDate>
-      
       <guid>https://magdelinehuang.com/posts/003-being-glue/</guid>
       <description>My takeaways from a really famous career talk by Tanya Reilly. PS read this if you&amp;rsquo;re underrepresented in tech</description>
     </item>
-    
   </channel>
 </rss>

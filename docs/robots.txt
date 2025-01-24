@@ -1,3 +1,1 @@
 User-agent: *
-Disallow:
-Sitemap: https://magdelinehuang.com/sitemap.xml
