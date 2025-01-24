@@ -1,4 +1,4 @@
-baseURL: "https://magdelinehuang.com/"
+baseURL: 'https://magdelinehuang.com/'
 title: Magdeline Huang
 paginate: 10
 theme: PaperMod
@@ -15,16 +15,16 @@ minify:
   minifyOutput: true
 
 taxonomies:
-  tag: "tags"
+  tag: 'tags'
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Magdeline Huang
-  description: "My digital garden"
+  description: 'My digital garden'
   keywords: [Blog, Portfolio, PaperMod]
   author: Magdeline Huang
-  images: ["<link or path of image for opengraph, twitter-cards>"]
-  DateFormat: "January 2, 2006"
+  images: ['<link or path of image for opengraph, twitter-cards>']
+  DateFormat: 'January 2, 2006'
   defaultTheme: auto # dark, light
   disableThemeToggle: false
 
@@ -47,14 +47,14 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "/favicon.ico"
-    favicon16x16: "/favicon-16x16.png"
-    favicon32x32: "/favicon-32x32.png"
-    apple_touch_icon: "/apple-touch-icon.png"
-    safari_pinned_tab: "/favicon-16x16.png"
+    favicon: '/favicon.ico'
+    favicon16x16: '/favicon-16x16.png'
+    favicon32x32: '/favicon-32x32.png'
+    apple_touch_icon: '/apple-touch-icon.png'
+    safari_pinned_tab: '/favicon-16x16.png'
 
   label:
-    text: "Magdeline Huang"
+    text: 'Magdeline Huang'
     icon:
     iconHeight: 35
 
@@ -62,8 +62,8 @@ params:
   profileMode:
     enabled: false # needs to be explicitly set
     title: Magdeline Huang
-    subtitle: "This is subtitle"
-    imageUrl: "<img location>"
+    subtitle: 'This is subtitle'
+    imageUrl: '<img location>'
     imageWidth: 120
     imageHeight: 120
     imageTitle: my image
@@ -80,25 +80,25 @@ params:
 
   socialIcons:
     - name: github
-      url: "https://github.com/xsol05"
+      url: 'https://github.com/xsol05'
     - name: youtube
-      url: "https://www.youtube.com/c/MagdelineHuang/featured"
+      url: 'https://www.youtube.com/c/MagdelineHuang/featured'
+    - name: instagram
+      url: 'https://www.instagram.com/magdelinehuang/'
+    - name: tiktok
+      url: 'https://www.tiktok.com/@magdelinehuang'
     - name: twitter
-      url: "https://twitter.com/magdelinehuang"
+      url: 'https://twitter.com/magdelinehuang'
     - name: other
-      url: "https://mylinks.ai/magdelinehuang"
-    # - name: tiktok
-    #   url: "https://www.tiktok.com/@magdelinehuang"
-    # - name: instagram
-    #   url: "https://www.instagram.com/magdelinehuang/"
+      url: 'https://beacons.ai/magdelinehuang'
 
   analytics:
     google:
-      SiteVerificationTag: "XYZabc"
+      SiteVerificationTag: 'XYZabc'
     bing:
-      SiteVerificationTag: "XYZabc"
+      SiteVerificationTag: 'XYZabc'
     yandex:
-      SiteVerificationTag: "XYZabc"
+      SiteVerificationTag: 'XYZabc'
 
   cover:
     hidden: true # hide everywhere but not in structured data
@@ -119,7 +119,7 @@ params:
     distance: 1000
     threshold: 0.4
     minMatchCharLength: 0
-    keys: ["title", "permalink", "summary", "content"]
+    keys: ['title', 'permalink', 'summary', 'content']
 
 menu:
   main:
@@ -163,7 +163,7 @@ outputs:
     - JSON # is necessary
 
 # Publishing the site
-publishDir: "docs"
+publishDir: 'docs'
 
 # Disqus comments
 disqusShortname: magdeline
