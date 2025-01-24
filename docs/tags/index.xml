@@ -1,103 +1,132 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Magdeline Huang</title>
     <link>https://magdelinehuang.com/tags/</link>
     <description>Recent content in Tags on Magdeline Huang</description>
-    <generator>Hugo</generator>
+    <image>
+      <url>https://magdelinehuang.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://magdelinehuang.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 06 Jan 2025 11:44:09 +0800</lastBuildDate>
-    <atom:link href="https://magdelinehuang.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 06 Jan 2025 11:44:09 +0800</lastBuildDate><atom:link href="https://magdelinehuang.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Career</title>
       <link>https://magdelinehuang.com/tags/career/</link>
       <pubDate>Mon, 06 Jan 2025 11:44:09 +0800</pubDate>
+      
       <guid>https://magdelinehuang.com/tags/career/</guid>
       <description></description>
     </item>
+    
     <item>
       <title>Goals</title>
       <link>https://magdelinehuang.com/tags/goals/</link>
       <pubDate>Mon, 06 Jan 2025 11:44:09 +0800</pubDate>
+      
       <guid>https://magdelinehuang.com/tags/goals/</guid>
       <description></description>
     </item>
+    
     <item>
       <title>Conference</title>
       <link>https://magdelinehuang.com/tags/conference/</link>
       <pubDate>Fri, 04 Oct 2024 16:40:05 +0800</pubDate>
+      
       <guid>https://magdelinehuang.com/tags/conference/</guid>
       <description></description>
     </item>
+    
     <item>
       <title>Animations</title>
       <link>https://magdelinehuang.com/tags/animations/</link>
       <pubDate>Mon, 31 Jul 2023 22:08:36 +1200</pubDate>
+      
       <guid>https://magdelinehuang.com/tags/animations/</guid>
       <description></description>
     </item>
+    
     <item>
       <title>CSS</title>
       <link>https://magdelinehuang.com/tags/css/</link>
       <pubDate>Mon, 31 Jul 2023 22:08:36 +1200</pubDate>
+      
       <guid>https://magdelinehuang.com/tags/css/</guid>
       <description></description>
     </item>
+    
     <item>
       <title>JavaScript</title>
       <link>https://magdelinehuang.com/tags/javascript/</link>
       <pubDate>Tue, 23 May 2023 14:43:53 +1200</pubDate>
+      
       <guid>https://magdelinehuang.com/tags/javascript/</guid>
       <description></description>
     </item>
+    
     <item>
       <title>Accessibility</title>
       <link>https://magdelinehuang.com/tags/accessibility/</link>
       <pubDate>Fri, 31 Mar 2023 18:11:56 +1300</pubDate>
+      
       <guid>https://magdelinehuang.com/tags/accessibility/</guid>
       <description></description>
     </item>
+    
     <item>
       <title>Git</title>
       <link>https://magdelinehuang.com/tags/git/</link>
       <pubDate>Fri, 17 Mar 2023 14:36:08 +1300</pubDate>
+      
       <guid>https://magdelinehuang.com/tags/git/</guid>
       <description></description>
     </item>
+    
     <item>
       <title>Mentor</title>
       <link>https://magdelinehuang.com/tags/mentor/</link>
       <pubDate>Tue, 31 Jan 2023 14:11:18 +0800</pubDate>
+      
       <guid>https://magdelinehuang.com/tags/mentor/</guid>
       <description></description>
     </item>
+    
     <item>
       <title>Internships</title>
       <link>https://magdelinehuang.com/tags/internships/</link>
       <pubDate>Mon, 22 Aug 2022 21:58:49 +1200</pubDate>
+      
       <guid>https://magdelinehuang.com/tags/internships/</guid>
       <description></description>
     </item>
+    
     <item>
       <title>Resume / CV</title>
       <link>https://magdelinehuang.com/tags/resume-/-cv/</link>
       <pubDate>Mon, 22 Aug 2022 21:58:49 +1200</pubDate>
+      
       <guid>https://magdelinehuang.com/tags/resume-/-cv/</guid>
       <description></description>
     </item>
+    
     <item>
       <title>Student</title>
       <link>https://magdelinehuang.com/tags/student/</link>
       <pubDate>Mon, 22 Aug 2022 21:58:49 +1200</pubDate>
+      
       <guid>https://magdelinehuang.com/tags/student/</guid>
       <description></description>
     </item>
+    
     <item>
       <title>Women in Tech</title>
       <link>https://magdelinehuang.com/tags/women-in-tech/</link>
       <pubDate>Mon, 15 Aug 2022 10:56:23 +1200</pubDate>
+      
       <guid>https://magdelinehuang.com/tags/women-in-tech/</guid>
       <description></description>
     </item>
+    
   </channel>
 </rss>
