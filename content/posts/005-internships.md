@@ -158,7 +158,7 @@ There’s a lot to keep track of, so it’s good to have a place where you can r
 
 ### How to write a resume
 
-This is quite a chunky topic but I have made a video plus [example resume](https://www.notion.so/Teddy-Bear-example-resume-b01becdf74944b3793fabfde2c428682) on it before which you can watch below 👇
+This is quite a chunky topic but I have made a video plus [example resume](https://magdeline.notion.site/Teddy-Bear-example-resume-558574d655434725aec57e5881dc1296?pvs=4) on it before which you can watch below 👇
 
 {{< youtube 8eIcynJPq8Y >}}<br />
 
