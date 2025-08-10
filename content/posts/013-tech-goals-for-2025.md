@@ -56,12 +56,4 @@ What are your goals for 2025? Share them below!
 
 PS This was originally an Instagram post on @magdelinehuang but it makes for a good 2025 opener blog post too! And yes, I'm trying to create more content this year!
 
-{{< figure src="/images/Tech Goals for 2025/2#center" >}}
-{{< figure src="/images/Tech Goals for 2025/3#center" >}}
-{{< figure src="/images/Tech Goals for 2025/4#center" >}}
-{{< figure src="/images/Tech Goals for 2025/5#center" >}}
-{{< figure src="/images/Tech Goals for 2025/6#center" >}}
-{{< figure src="/images/Tech Goals for 2025/7#center" >}}
-{{< figure src="/images/Tech Goals for 2025/8b#center" >}}
-{{< figure src="/images/Tech Goals for 2025/9#center" >}}
-{{< figure src="/images/Tech Goals for 2025/10#center" >}}
+{{< instagram DEdrLETpV9W >}}
