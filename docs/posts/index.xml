@@ -10,7 +10,7 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 06 Jan 2025 11:44:09 +0800</lastBuildDate><atom:link href="https://magdelinehuang.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 Aug 2025 16:59:23 +0800</lastBuildDate><atom:link href="https://magdelinehuang.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>🌷 My Digital Garden</title>
       <link>https://magdelinehuang.com/posts/001-my-digital-garden/</link>
@@ -18,6 +18,15 @@
       
       <guid>https://magdelinehuang.com/posts/001-my-digital-garden/</guid>
       <description>A bit about me and my garden</description>
+    </item>
+    
+    <item>
+      <title>🍡 Exploring the World of 3D</title>
+      <link>https://magdelinehuang.com/posts/014-3d/</link>
+      <pubDate>Sun, 10 Aug 2025 16:59:23 +0800</pubDate>
+      
+      <guid>https://magdelinehuang.com/posts/014-3d/</guid>
+      <description>3D modelling and 3D printing are so fun!</description>
     </item>
     
     <item>

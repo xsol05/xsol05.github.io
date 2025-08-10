@@ -23,15 +23,11 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "images/Tech Goals for 2025/2" # image path/url
+    image: "https://www.instagram.com/p/DEdrLETpV9W/?utm_source=ig_web_copy_link&igsh=M2NiODBja2RqYXQ5" # image path/url
     alt: "<alt text>" # alt text
     caption: "<text>" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: true # only hide on current single page
-editPost:
-    URL: "https://github.com/xsol05/xsol05.github.io/blob/main/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
 ---
 
 As a software engineer who spends my 9 - 5 coding SaaS products, this year I want to create a ✨ creative portfolio ✨

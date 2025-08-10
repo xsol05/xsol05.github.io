@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Goals on Magdeline Huang</title>
-    <link>https://magdelinehuang.com/tags/goals/</link>
-    <description>Recent content in Goals on Magdeline Huang</description>
+    <title>3D on Magdeline Huang</title>
+    <link>https://magdelinehuang.com/tags/3d/</link>
+    <description>Recent content in 3D on Magdeline Huang</description>
     <image>
       <url>https://magdelinehuang.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://magdelinehuang.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 10 Aug 2025 16:59:23 +0800</lastBuildDate><atom:link href="https://magdelinehuang.com/tags/goals/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 Aug 2025 16:59:23 +0800</lastBuildDate><atom:link href="https://magdelinehuang.com/tags/3d/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>🍡 Exploring the World of 3D</title>
       <link>https://magdelinehuang.com/posts/014-3d/</link>
@@ -18,15 +18,6 @@
       
       <guid>https://magdelinehuang.com/posts/014-3d/</guid>
       <description>3D modelling and 3D printing are so fun!</description>
-    </item>
-    
-    <item>
-      <title>🏆 My Tech Goals for 2025</title>
-      <link>https://magdelinehuang.com/posts/013-tech-goals-for-2025/</link>
-      <pubDate>Mon, 06 Jan 2025 11:44:09 +0800</pubDate>
-      
-      <guid>https://magdelinehuang.com/posts/013-tech-goals-for-2025/</guid>
-      <description>In my ✨ creative ✨ era</description>
     </item>
     
   </channel>
